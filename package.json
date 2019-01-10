@@ -1,0 +1,25 @@
+{
+  "name": "react-xstream-hoc",
+  "version": "1.0.0",
+  "description": "A utility to make React components easily consume xstream streams",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "compile": "tsc",
+    "test": "tape test.js",
+    "prepublishOnly": "npm run compile"
+  },
+  "author": "staltz.com",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": ">=16.0.0",
+    "xstream": ">=11",
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.30",
+    "tape": "^4.8.0",
+    "typescript": "3.2.x",
+    "react-test-renderer": "^16.0.0"
+  }
+}
