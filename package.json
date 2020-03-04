@@ -14,13 +14,13 @@
   "license": "MIT",
   "dependencies": {
     "@types/react": ">=16.0.0",
-    "xstream": ">=11",
-    "react": ">=16.0.0"
+    "react": ">=16.0.0",
+    "xstream": ">=11"
   },
   "devDependencies": {
     "@types/node": "^8.0.30",
+    "react-test-renderer": "^16.0.0",
     "tape": "^4.8.0",
-    "typescript": "3.2.x",
-    "react-test-renderer": "^16.0.0"
+    "typescript": "3.2.x"
   }
 }
