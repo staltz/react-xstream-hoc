@@ -1,6 +1,6 @@
 {
   "name": "react-xstream-hoc",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A utility to make React components easily consume xstream streams",
   "main": "index.js",
   "typings": "index.d.ts",
