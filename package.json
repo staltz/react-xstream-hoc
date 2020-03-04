@@ -4,6 +4,7 @@
   "description": "A utility to make React components easily consume xstream streams",
   "main": "index.js",
   "typings": "index.d.ts",
+  "homepage": "https://github.com/staltz/react-xstream-hoc",
   "scripts": {
     "compile": "tsc",
     "test": "tape test.js",
